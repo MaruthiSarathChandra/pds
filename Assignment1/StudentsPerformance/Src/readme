@@ -1,1 +1,32 @@
 
+
+The bar plot comparing average scores based on test preparation course completion simplifies analysis by clearly showing whether students who completed
+the course performed better in math, reading, and writing than those who did not. It provides a quick assessment of how test preparation influences student performance. 
+The chart enables easy comparison between groups without requiring complex interpretation. By directly illustrating the impact of external preparation on scores, 
+it offers valuable insights for educators and students. This simple yet powerful visualization helps identify the effectiveness of extra preparation in improving 
+academic success, making it an essential tool for analysis. 
+
+	Histogram - Distribution of Math Scores
+•	Helps visualize the overall distribution of students’ math scores.
+•	Identifies the most common score ranges (e.g., do most students score in the 70-80 range?).
+•	Detects skewness or abnormalities in the score distribution.
+	Boxplot - Scores by Gender
+•	Shows the median, quartiles, and outliers for math, reading, and writing scores across genders.
+•	Helps identify whether there is a significant performance difference between male and female students.
+•	Detects outliers (students with extremely high or low scores).
+
+	Bar Plot - Impact of Test Preparation Course
+•	Compares average math, reading, and writing scores between students who completed the test preparation course vs. those who didn’t.
+•	Helps assess whether taking the course improves performance in all subjects or just one.
+•	Highlights the effectiveness of preparatory courses in boosting scores.
+
+	Scatter Plot - Correlation Between Math and Reading Scores
+•	Shows the relationship between math scores and reading scores.
+•	Helps determine if students who perform well in one subject tend to perform well in the other.
+•	Color-coded by gender to observe any gender-based trends.
+
+	Heatmap - Correlation Between All Scores
+•	Displays correlation coefficients between math, reading, and writing scores.
+•	Helps identify strong relationships (e.g., students good at reading tend to be good at writing).
+•	Useful for predictive modeling (if a strong correlation exists, one score can help predict another).
+
